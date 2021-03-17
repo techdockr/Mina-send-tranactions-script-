@@ -1,7 +1,10 @@
 # Mina-send-tranactions-script-
-Run this script on the Mina node. 
-It will help you to make scheduled transactions. 
+Run this script on the Mina node
+
+It will help you to make scheduled transactions
+
 You need to install python on the host 
+
 It is important to unlock your key before running script:  
 
 sudo docker exec -it mina bash
